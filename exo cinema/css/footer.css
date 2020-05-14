@@ -1,0 +1,32 @@
+
+ul {
+
+    list-style:none;
+
+  }
+#logofooter {
+
+  margin-top: 6.5rem;
+  margin-left: 2rem;
+
+  }
+@media only screen and (max-width: 650px)  {
+
+div.logofooter{
+  display: none;
+}
+div.footer650{
+
+  justify-content: space-around;
+}
+}
+@media only screen and (max-width: 550px)  {
+
+div.logofooter{
+  display: none;
+}
+div.footer650{
+
+
+}
+}

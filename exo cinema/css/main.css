@@ -1,0 +1,25 @@
+.sliderAffiche{
+    margin-top:50px;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.titresSliders{
+    font-size:3em;
+}
+
+section{
+    padding-top: 30px;
+}
+section.sectioncard{
+  margin-left: 0;
+  padding-left: 0;
+  margin-right: 0;
+  padding-right: 0;
+}
+.horaires {
+    background-color:#6c757d !important;
+}
